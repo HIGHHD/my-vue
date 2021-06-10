@@ -2,8 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div>
-      <div>2134234234234324234</div>
-      <el-button @click="startHacking">Start</el-button>
+      <el-button type="primary" icon="el-icon-search" @click="startHacking">Start</el-button>
     </div>
   </div>
 </template>
